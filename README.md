@@ -3,7 +3,7 @@
 
 ### ☁️ Deploy:
 
-A <a href="https://github.com/LucasTKP/pokedex.git">PokéDex</a> está hospedado na Vercel.
+A <a href="https://pokedex-lucastkp.vercel.app/">PokéDex</a> está hospedado na Vercel.
 <br /> <br />
 
 ### 💻 Projeto:
